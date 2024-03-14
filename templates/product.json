@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "product_hero": {
+            "type": "product_hero"
+        },
+        "product_description": {
+            "type": "product_description"
+        },
+        "product_recommended": {
+            "type": "product_recommended"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "product",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "product_hero",
+        "product_description",
+        "product_recommended",
+        "footer"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "gift_card": {
+            "type": "gift_card"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "giftcard",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "gift_card",
+        "footer"
+    ]
+}

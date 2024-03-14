@@ -1,0 +1,24 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "404": {
+            "type": "404"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "404",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "404",
+        "footer"
+    ]
+}

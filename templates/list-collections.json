@@ -1,0 +1,28 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "list_collection_hero": {
+            "type": "list_collection_hero"
+        },
+        "list_collection": {
+            "type": "list_collection"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "list-collections",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "list_collection_hero",
+        "list_collection",
+        "footer"
+    ]
+}

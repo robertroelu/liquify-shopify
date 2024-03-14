@@ -1,0 +1,24 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "contact_thank_you": {
+            "type": "contact_thank_you"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "page.contact-thank-you",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "contact_thank_you",
+        "footer"
+    ]
+}

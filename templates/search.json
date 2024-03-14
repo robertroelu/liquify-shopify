@@ -1,0 +1,28 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "search_bar": {
+            "type": "search_bar"
+        },
+        "search_products": {
+            "type": "search_products"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "search",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "search_bar",
+        "search_products",
+        "footer"
+    ]
+}

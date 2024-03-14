@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "article_hero": {
+            "type": "article_hero"
+        },
+        "article_content": {
+            "type": "article_content"
+        },
+        "article_next": {
+            "type": "article_next"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "article",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "article_hero",
+        "article_content",
+        "article_next",
+        "footer"
+    ]
+}

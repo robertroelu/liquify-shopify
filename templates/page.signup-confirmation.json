@@ -1,0 +1,24 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "signup_thank_you": {
+            "type": "signup_thank_you"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "page.signup-confirmation",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "signup_thank_you",
+        "footer"
+    ]
+}
