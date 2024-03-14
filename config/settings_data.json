@@ -1,1 +1,89 @@
-{"current":{}}
+{
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "collection_bestseller": "",
+          "collection_bestseller_limit": 6
+        }
+      },
+      "starter_screen": {
+        "type": "starter_screen",
+        "settings": {
+        }
+      },
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "text_headline": "dadadasda",
+          "richtext_text": "<p>SDADA<\/p>",
+          "url_button_link": "",
+          "text_button_text": "More Information"
+        }
+      },
+      "category": {
+        "type": "category",
+        "settings": {
+          "text_headline": "Short heading here",
+          "url_button_link": "",
+          "text_button_text": "All products",
+          "collection_slider": "",
+          "collection_slider_limit": 6
+        }
+      },
+      "links": {
+        "type": "links",
+        "settings": {
+          "text_headline": "Short heading here"
+        }
+      },
+      "content": {
+        "type": "content",
+        "settings": {
+          "text_headline": "Short heading here",
+          "text_button_text": "All Articles",
+          "url_button_link": "",
+          "text_artikel_1_titel": "Blog title heading will go here",
+          "text_artikel_1_excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+          "url_artikel_1_link": "",
+          "text_artikel_2_titel": "Blog title heading will go here",
+          "url_artikel_2_link": "",
+          "text_artikel_2_excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+          "article_artikel_2": "",
+          "text_artikel_3_titel": "Blog title heading will go here",
+          "url_artikel_3_link": "",
+          "text_artikel_3_excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
+          "article_artikel_3": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "text_newsletter_headline": "Signup for Newsletter",
+          "text_checkbox": "By subscribing you agree to with our <a href=\"#\">\n    <span class=\"text-color-white text-style-link\">\n    Privacy Policy    <\/span>\n    <\/a>\nand provide consent to receive updates from our company."
+        }
+      },
+      "product_hero": {
+        "type": "product_hero",
+        "settings": {
+        }
+      },
+      "product_description": {
+        "type": "product_description",
+        "settings": {
+          "text_headline": "Description"
+        }
+      },
+      "product_recommended": {
+        "type": "product_recommended",
+        "settings": {
+          "text_headline": "Recommended"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
